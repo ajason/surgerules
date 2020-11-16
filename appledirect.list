@@ -1,5 +1,6 @@
 #icloud 或者 apple 可能出现的大数据量的请求集合起来用DIRECT
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,apple-cloudkit.com
 # Apple_CDN.list
 # Apple Music
