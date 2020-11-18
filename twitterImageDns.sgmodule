@@ -1,5 +1,5 @@
 #!name=Twitter Image DNS
-#!desc=解決 Twitter 图片加载缓慢问题 v20201118.05
+#!desc=解決 Twitter 图片加载缓慢问题 v20201118.06
 
 [Host]
 pbs.twimg.com = 69.171.227.37
