@@ -1,0 +1,7 @@
+#!name=baiduDNS
+#!desc=公司网络dns
+
+[Host]
+*.baidu.com = server:172.22.1.253
+imanualdemo.baidu.com = 10.117.177.25
+*.baidu-int.com = server:172.22.1.253
