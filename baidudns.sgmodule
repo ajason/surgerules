@@ -3,7 +3,6 @@
 
 [Host]
 *.baidu.com = server:172.22.1.253
-imanualdemo.baidu.com = 10.117.177.25
 *.baidu-int.com = server:172.22.1.253
 cdn.bootcss.com = server:172.22.1.253
 cdn.bootcdn.net = server:172.22.1.253
