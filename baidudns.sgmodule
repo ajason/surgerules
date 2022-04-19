@@ -2,6 +2,7 @@
 #!desc=公司网络dns
 
 [Host]
+imanualdemo.baidu.com = 10.117.177.25
 *.baidu.com = server:172.22.1.253
 *.baidu-int.com = server:172.22.1.253
 cdn.bootcss.com = server:172.22.1.253
