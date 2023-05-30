@@ -1,4 +1,3 @@
-[Rule]
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,chat.openai.com
@@ -18,11 +17,7 @@ DONAIN-SUFFIX,statsigapi.net
 DOMAIN,cdn.auth0.com
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,challenges.cloudflare.com
-
 DOMAIN-SUFFIX,bard.google.com
-
 DOMAIN-SUFFIX,bing.com
-
 DOMAIN-SUFFIX,heypi.com
-
 DOMAIN-SUFFIX,poe.com
