@@ -1,3 +1,4 @@
+[Rule]
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,chat.openai.com
